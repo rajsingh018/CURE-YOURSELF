@@ -18,7 +18,7 @@
 
 ### Team : <strong>Captivators</strong>
 
-1. [Madhvendra Singh](https://github.com/)<br>
+1. [Madhvendra Singh](https://github.com/rajsingh018)<br>
 2. [Shreya Sinha](https://github.com/)<br>
 3. [Saksham Sahu](https://github.com/)<br>
 4. [Vartika Pal](https://github.com/)<br>

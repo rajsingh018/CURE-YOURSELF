@@ -23,6 +23,6 @@
 3. [Saksham Sahu](https://github.com/)<br>
 4. [Vartika Pal](https://github.com/)<br>
 
-## [Click Here](https://) to view the Project.
+## [Click Here](https://rajsingh018.github.io/CURE-YOURSELF/) to view the Project.
 
 ### [Click Here](https://) to view the Expanation Presentation

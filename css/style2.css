@@ -1,0 +1,14 @@
+#SocialMedia{
+    padding: 80px opx;
+  }
+  #SocialMedia .Social_Media h2{
+    margin-left: 400px;
+    color: #413e66;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+  }
+  #SocialMedia .Social_Media h3{
+    color: #413e66;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 540;
+  }
